@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  My first blog post!
-date: 2016-02-21 21:45:10
+title:  My first blog
+date: 2016-02-21 22:02:43
 published: true
 tags: [example1, example2]
 ---
