@@ -1,0 +1,13 @@
+---
+layout: post
+title:  My first blog post!
+date: `r Sys.time()`
+published: true
+tags: [example1, example2]
+---
+
+Testing, Testing, 1,2,3
+
+```{r}
+plot(1:10)
+```
