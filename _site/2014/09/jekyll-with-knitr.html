@@ -10,8 +10,8 @@
     <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 ">
 
-    <link rel="stylesheet" href="/knitr-jekyll/css/main.css">
-    <link rel="canonical" href="http://yourdomain.com/knitr-jekyll/2014/09/jekyll-with-knitr.html">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="http://yourdomain.com/2014/09/jekyll-with-knitr.html">
 </head>
 
 
@@ -21,7 +21,7 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="/knitr-jekyll/">small_data</a>
+    <a class="site-title" href="/">small_data</a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -35,7 +35,7 @@
       <div class="trigger">
         
           
-          <a class="page-link" href="/knitr-jekyll/about/">About</a>
+          <a class="page-link" href="/about/">About</a>
           
         
           
@@ -77,7 +77,7 @@
 
 <p>You must have installed the packages <strong>servr</strong> (&gt;= 0.2) and <strong>knitr</strong> (&gt;= 1.8).</p>
 
-<div class="highlight"><pre><code class="language-r" data-lang="r">install.packages<span class="p">(</span><span class="kt">c</span><span class="p">(</span><span class="s">&quot;servr&quot;</span><span class="p">,</span> <span class="s">&quot;knitr&quot;</span><span class="p">),</span> repos <span class="o">=</span> <span class="s">&quot;http://cran.rstudio.com&quot;</span><span class="p">)</span></code></pre></div>
+<div class="highlight"><pre><code class="language-r" data-lang="r">install.packages<span class="p">(</span><span class="kt">c</span><span class="p">(</span><span class="s">&#39;servr&#39;</span><span class="p">,</span> <span class="s">&#39;knitr&#39;</span><span class="p">),</span> repos <span class="o">=</span> <span class="s">&#39;http://cran.rstudio.com&#39;</span><span class="p">)</span></code></pre></div>
 
 <p>Of course, you have to install <a href="http://jekyllrb.com">Jekyll</a> as well. For Windows users, you have to make sure <code>jekyll</code> can be found from your environment variable <code>PATH</code>, i.e., R can call it via <code>system('jekyll')</code>. This is normally not an issue for Linux or Mac OS X users (<code>gem install jekyll</code> is enough).</p>
 
@@ -207,8 +207,7 @@ knitr<span class="o">::</span>kable<span class="p">(</span><span class="kp">head
 </table>
 
 <div class="highlight"><pre><code class="language-r" data-lang="r"><span class="p">(</span><span class="kr">function</span><span class="p">()</span> <span class="p">{</span>
-    <span class="kr">if</span> <span class="p">(</span><span class="kc">TRUE</span><span class="p">)</span> 
-        <span class="m">1</span> <span class="o">+</span> <span class="m">1</span>  <span class="c1"># a boring comment</span>
+  <span class="kr">if</span> <span class="p">(</span><span class="kc">TRUE</span><span class="p">)</span> <span class="m">1</span> <span class="o">+</span> <span class="m">1</span>  <span class="c1"># a boring comment</span>
 <span class="p">})()</span></code></pre></div>
 
 <div class="highlight"><pre><code class="language-text" data-lang="text">## [1] 2</code></pre></div>
@@ -220,10 +219,10 @@ knitr<span class="o">::</span>kable<span class="p">(</span><span class="kp">head
 
 <p>Just to test inline R expressions<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> in <strong>knitr</strong>, we know the first element in <code>x</code> (created in the code chunk above) is 9.44. You can certainly draw some graphs as well:</p>
 
-<div class="highlight"><pre><code class="language-r" data-lang="r">par<span class="p">(</span>mar <span class="o">=</span> <span class="kt">c</span><span class="p">(</span><span class="m">4</span><span class="p">,</span> <span class="m">4</span><span class="p">,</span> <span class="m">0.1</span><span class="p">,</span> <span class="m">0.1</span><span class="p">))</span>
-plot<span class="p">(</span>cars<span class="p">,</span> pch <span class="o">=</span> <span class="m">19</span><span class="p">,</span> col <span class="o">=</span> <span class="s">&quot;red&quot;</span><span class="p">)</span>  <span class="c1"># a scatterplot</span></code></pre></div>
+<div class="highlight"><pre><code class="language-r" data-lang="r">par<span class="p">(</span>mar <span class="o">=</span> <span class="kt">c</span><span class="p">(</span><span class="m">4</span><span class="p">,</span> <span class="m">4</span><span class="p">,</span> <span class="m">.1</span><span class="p">,</span> <span class="m">.1</span><span class="p">))</span>
+plot<span class="p">(</span>cars<span class="p">,</span> pch <span class="o">=</span> <span class="m">19</span><span class="p">,</span> col <span class="o">=</span> <span class="s">&#39;red&#39;</span><span class="p">)</span>  <span class="c1"># a scatterplot</span></code></pre></div>
 
-<p><img src="http://db.yihui.name/jekyll/2014-09-28-jekyll-with-knitr/cars-1.png" alt="A scatterplot of the cars data" /></p>
+<p><img src="/figure/source/2014-09-28-jekyll-with-knitr/cars-1.png" alt="A scatterplot of the cars data" /></p>
 
 <h2 id="the-build-script">The build script</h2>
 

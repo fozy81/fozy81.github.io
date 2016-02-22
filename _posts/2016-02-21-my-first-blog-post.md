@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  My first blog
-date: 2016-02-21 22:02:43
+date: 2016-02-22 00:19:06
 published: true
 tags: [example1, example2]
 ---
@@ -13,4 +13,4 @@ Testing, Testing, 1,2,3
 plot(1:10)
 {% endhighlight %}
 
-![plot of chunk unnamed-chunk-1](/knitr-jekyllfigure/source/my-first-blog-post/2016-02-21-my-first-blog-post/unnamed-chunk-1-1.png)
+![plot of chunk unnamed-chunk-1](/figure/source/my-first-blog-post/2016-02-21-my-first-blog-post/unnamed-chunk-1-1.png)
