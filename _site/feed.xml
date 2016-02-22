@@ -4,10 +4,10 @@
     <title>small_data</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/knitr-jekyll/</link>
-    <atom:link href="http://yourdomain.com/knitr-jekyll/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 21 Feb 2016 23:57:21 +0000</pubDate>
-    <lastBuildDate>Sun, 21 Feb 2016 23:57:21 +0000</lastBuildDate>
+    <link>http://yourdomain.com//</link>
+    <atom:link href="http://yourdomain.com//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 21 Feb 2016 23:59:55 +0000</pubDate>
+    <lastBuildDate>Sun, 21 Feb 2016 23:59:55 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -19,8 +19,8 @@
 &lt;p&gt;&lt;img src=&quot;/knitr-jekyllfigure/source/my-first-test/2016-02-21-my-first-test/unnamed-chunk-1-1.png&quot; alt=&quot;plot of chunk unnamed-chunk-1&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 21 Feb 2016 22:27:50 +0000</pubDate>
-        <link>http://yourdomain.com/knitr-jekyll/2016/02/my-first-test.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/knitr-jekyll/2016/02/my-first-test.html</guid>
+        <link>http://yourdomain.com//2016/02/my-first-test.html</link>
+        <guid isPermaLink="true">http://yourdomain.com//2016/02/my-first-test.html</guid>
         
         <category>example1</category>
         
@@ -38,8 +38,8 @@
 &lt;p&gt;&lt;img src=&quot;/knitr-jekyllfigure/source/my-first-blog/2016-02-21-my-first-blog/unnamed-chunk-1-1.png&quot; alt=&quot;plot of chunk unnamed-chunk-1&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 21 Feb 2016 22:05:10 +0000</pubDate>
-        <link>http://yourdomain.com/knitr-jekyll/2016/02/my-first-blog.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/knitr-jekyll/2016/02/my-first-blog.html</guid>
+        <link>http://yourdomain.com//2016/02/my-first-blog.html</link>
+        <guid isPermaLink="true">http://yourdomain.com//2016/02/my-first-blog.html</guid>
         
         <category>example1</category>
         
@@ -57,8 +57,8 @@
 &lt;p&gt;&lt;img src=&quot;/knitr-jekyllfigure/source/my-first-blog-post/2016-02-21-my-first-blog-post/unnamed-chunk-1-1.png&quot; alt=&quot;plot of chunk unnamed-chunk-1&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 21 Feb 2016 22:02:43 +0000</pubDate>
-        <link>http://yourdomain.com/knitr-jekyll/2016/02/my-first-blog-post.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/knitr-jekyll/2016/02/my-first-blog-post.html</guid>
+        <link>http://yourdomain.com//2016/02/my-first-blog-post.html</link>
+        <guid isPermaLink="true">http://yourdomain.com//2016/02/my-first-blog-post.html</guid>
         
         <category>example1</category>
         
@@ -85,8 +85,8 @@
 
 </description>
         <pubDate>Sun, 28 Sep 2014 00:16:53 +0100</pubDate>
-        <link>http://yourdomain.com/knitr-jekyll/2014/09/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/knitr-jekyll/2014/09/welcome-to-jekyll.html</guid>
+        <link>http://yourdomain.com//2014/09/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com//2014/09/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -303,8 +303,8 @@ plot&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;cars&lt;span class=&quot;p&quo
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 28 Sep 2014 00:00:00 +0100</pubDate>
-        <link>http://yourdomain.com/knitr-jekyll/2014/09/jekyll-with-knitr.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/knitr-jekyll/2014/09/jekyll-with-knitr.html</guid>
+        <link>http://yourdomain.com//2014/09/jekyll-with-knitr.html</link>
+        <guid isPermaLink="true">http://yourdomain.com//2014/09/jekyll-with-knitr.html</guid>
         
         <category>knitr</category>
         
