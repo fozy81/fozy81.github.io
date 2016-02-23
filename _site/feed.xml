@@ -1,36 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>small_data</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 22 Feb 2016 00:19:07 +0000</pubDate>
-    <lastBuildDate>Mon, 22 Feb 2016 00:19:07 +0000</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
-    
-      <item>
-        <title>My first test</title>
-        <description>&lt;p&gt;Your markdown here! dfsse&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-r&quot; data-lang=&quot;r&quot;&gt;plot&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/figure/source/my-first-test/2016-02-21-my-first-test/unnamed-chunk-1-1.png&quot; alt=&quot;plot of chunk unnamed-chunk-1&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 22 Feb 2016 00:19:06 +0000</pubDate>
-        <link>http://yourdomain.com/2016/02/my-first-test.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2016/02/my-first-test.html</guid>
-        
-        <category>example1</category>
-        
-        <category>example2</category>
-        
-        
-      </item>
+    <title>This could take some time...</title>
+    <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://example.com/</link>
+    <description>Blog mainly about R stuff</description>
+    <pubDate>Tue, 23 Feb 2016 21:28:19 +0000</pubDate>
     
       <item>
         <title>My first blog</title>
+        <link>http://example.com/2016/02/22/my-first-blog-post.html</link>
+        <guid isPermaLink="true">http://example.com/2016/02/22/my-first-blog-post.html</guid>
         <description>&lt;p&gt;Testing, Testing, 1,2,3&lt;/p&gt;
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-r&quot; data-lang=&quot;r&quot;&gt;plot&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
@@ -38,37 +18,12 @@
 &lt;p&gt;&lt;img src=&quot;/figure/source/my-first-blog-post/2016-02-21-my-first-blog-post/unnamed-chunk-1-1.png&quot; alt=&quot;plot of chunk unnamed-chunk-1&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 22 Feb 2016 00:19:06 +0000</pubDate>
-        <link>http://yourdomain.com/2016/02/my-first-blog-post.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2016/02/my-first-blog-post.html</guid>
-        
-        <category>example1</category>
-        
-        <category>example2</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>My first</title>
-        <description>&lt;p&gt;Your markdown here!&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-r&quot; data-lang=&quot;r&quot;&gt;plot&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/figure/source/my-first-blog/2016-02-21-my-first-blog/unnamed-chunk-1-1.png&quot; alt=&quot;plot of chunk unnamed-chunk-1&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 22 Feb 2016 00:19:05 +0000</pubDate>
-        <link>http://yourdomain.com/2016/02/my-first-blog.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2016/02/my-first-blog.html</guid>
-        
-        <category>example1</category>
-        
-        <category>example2</category>
-        
-        
       </item>
     
       <item>
         <title>Serve Jekyll Websites with servr and knitr</title>
+        <link>http://example.com/jekyll/rstats/2014/09/28/jekyll-with-knitr.html</link>
+        <guid isPermaLink="true">http://example.com/jekyll/rstats/2014/09/28/jekyll-with-knitr.html</guid>
         <description>&lt;p&gt;The R package &lt;a href=&quot;https://github.com/yihui/servr&quot;&gt;&lt;strong&gt;servr&lt;/strong&gt;&lt;/a&gt; can be used to set up an HTTP server to serve files under a directory. Since &lt;strong&gt;servr&lt;/strong&gt; v0.2, it has added a function &lt;code&gt;servr::jekyll()&lt;/code&gt; specifically designed for websites based on Jekyll and R Markdown. The main features of this function are:&lt;/p&gt;
 
 &lt;ol&gt;
@@ -229,7 +184,7 @@ knitr&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;kable&lt;span class=&quot;p&
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-r&quot; data-lang=&quot;r&quot;&gt;par&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;mar &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;.1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;.1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
 plot&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;cars&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; pch &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;19&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; col &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;red&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;# a scatterplot&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/figure/source/2014-09-28-jekyll-with-knitr/cars-1.png&quot; alt=&quot;A scatterplot of the cars data&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;figure/source/2014-09-28-jekyll-with-knitr/cars-1.png&quot; alt=&quot;A scatterplot of the cars data&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;the-build-script&quot;&gt;The build script&lt;/h2&gt;
 
@@ -274,22 +229,6 @@ plot&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;cars&lt;span class=&quot;p&quo
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 28 Sep 2014 00:00:00 +0100</pubDate>
-        <link>http://yourdomain.com/2014/09/jekyll-with-knitr.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2014/09/jekyll-with-knitr.html</guid>
-        
-        <category>knitr</category>
-        
-        <category>servr</category>
-        
-        <category>httpuv</category>
-        
-        <category>websocket</category>
-        
-        
-        <category>jekyll</category>
-        
-        <category>rstats</category>
-        
       </item>
     
   </channel>

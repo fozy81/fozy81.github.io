@@ -1,16 +1,14 @@
-This is a minimal example of a Jekyll-based website using **knitr** and R
-Markdown. The interesting bit of this repo is that you can actually serve the
-Jekyll website locally with R, and R Markdown posts can be compiled
-automatically, with the web pages automatically refreshed as well.
+# Type Theme
 
-After you are satisfied with the local preview, you can either just push the
-Markdown blog posts to your Github repo (e.g. the `gh-pages` branch), and let
-Github generate the website for you, or host the HTML files generated under the
-`_site/` directory on your own server.
+![Default Type Theme blog](https://cloud.githubusercontent.com/assets/816965/5142407/19742e48-71d6-11e4-8d9d-fdfe010784f0.png)
 
-The original website was created from `jekyll new .` under the root directory,
-which was part of the [official Jekyll repo](https://github.com/jekyll/jekyll).
-The additional code (R, Makefile) in this repo is under the MIT License, and the
-[blog post](http://yihui.name/knitr-jekyll/2014/09/jekyll-with-knitr.html) I
-wrote is under the [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/)
-International License.
+A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and easy to customize.
+
+## Get Started
+
+[Demo](https://rohanchandra.github.io/type-theme/)
+
+[Using Type](https://rohanchandra.github.io/project/type/)
+
+## License
+The MIT License (MIT)
