@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title:  Reproducible policy documents in R
-date: 2016-02-24 22:31:16
+date: 2016-02-24 22:35:09
 published: true
 tags: [rmarkdown, rstats, policy]
 ---
@@ -13,6 +13,7 @@ Got me wondering how far this could be taken. Even though there's plenty of tech
 I'd been thinking about if Rmarkdown could be used in policy or legal documents. These documents are have a very complicated structure which can make a even your most convoluted git repository look like a minimalist masterpiece in comparison. And it (seems git version control)[https://legixinfo.wordpress.com/2015/08/12/can-github-be-used-to-manage-legislation/] isn't necessarily a solution for legal documents.  The structure of legal documents has also been formalised in a number of ways within the UK and else where for instance there are [xml formats](http://www.legislation.gov.uk/developer/formats) as well as a more broad [international xml standard](http://www.akomantoso.org/). Some interesting tools for editing and updating laws are also being development. So aside from the xml formatting and issues around versioning - is there a place for Rmarkdown?
  
 Maybe an Rmarkdown policy doc for reducing litter?
+
 ![policy doc]({{ site.url }}/images/policy_doc.png)
  
 I think R markdown documents, particularly for policy could be a building block for the services and reports that a particular policy outlines. Making the text of a legal document the foundation of a data dictionary and web service which delivers the outcomes, measures the performance, creates the reports and ultimately provides feedback as to whether the policy is successful or not. This document would also be easy to transferable/adjustable for different jurisdiction.
