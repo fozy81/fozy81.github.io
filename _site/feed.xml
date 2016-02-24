@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>This could take some time...</title>
-    <atom:link href="http://fozy81.github.io.//feed.xml" rel="self" type="application/rss+xml"/>
-    <link>http://fozy81.github.io.//</link>
+    <atom:link href="http://fozy81.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://fozy81.github.io//</link>
     <description>Blog mainly about R stuff</description>
-    <pubDate>Wed, 24 Feb 2016 21:51:22 +0000</pubDate>
+    <pubDate>Wed, 24 Feb 2016 21:57:51 +0000</pubDate>
     
       <item>
         <title>Reproducible policy documents in R</title>
-        <link>http://fozy81.github.io.//2016/02/24/r-markdown-for-policy-documents.html</link>
-        <guid isPermaLink="true">http://fozy81.github.io.//2016/02/24/r-markdown-for-policy-documents.html</guid>
+        <link>http://fozy81.github.io//2016/02/24/r-markdown-for-policy-documents.html</link>
+        <guid isPermaLink="true">http://fozy81.github.io//2016/02/24/r-markdown-for-policy-documents.html</guid>
         <description>&lt;p&gt;Reproducible documents in R markdown have focused on science and technical data. Along with distributed version control, the R package system, unit testing and continuous integration resources there is a suite of tools which were original developed for collaborating and testing code and digital resouces which now are being used more widely for all types of documentation and processes in science and beyond.&lt;/p&gt;
 
 &lt;p&gt;Got me wondering how far this could be taken. Even though there’s plenty of technical aspects in terms of how best to use and collaborate using these types of documents, particularly between the non-technical end-user and the coder. There’s some really interesting work outlined in this &lt;a href=&quot;https://www.stat.auckland.ac.nz/~paul/Reports/invert/invert.html&quot;&gt;paper&lt;/a&gt; on ways this can be done.&lt;/p&gt;
@@ -23,7 +23,7 @@
 
 &lt;p&gt;If the area name you enter matches an admin area in OpenStreetMap (admin_level = 6) i.e. roughly equal to county/council jurisdiction, it will download the road network from openstreetmap, work out how much distance that covers, sets up surveying points to create a baseline survey to record the amount of litter present and displays a simple map. Once the data on the amount of litter is collect, is could be the basis of a shiny app…the level of fines for litter could be adjusted and the outcomes of different levels of fine compared. The fines could be automatically adjusted for inflation.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://fozy81.github.io./images/policy_doc.png&quot; alt=&quot;doc_map&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://fozy81.github.io/images/policy_doc.png&quot; alt=&quot;doc_map&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 24 Feb 2016 00:57:09 +0000</pubDate>
@@ -31,8 +31,8 @@
     
       <item>
         <title>My first blog</title>
-        <link>http://fozy81.github.io.//2016/02/24/my-first-blog-post.html</link>
-        <guid isPermaLink="true">http://fozy81.github.io.//2016/02/24/my-first-blog-post.html</guid>
+        <link>http://fozy81.github.io//2016/02/24/my-first-blog-post.html</link>
+        <guid isPermaLink="true">http://fozy81.github.io//2016/02/24/my-first-blog-post.html</guid>
         <description>&lt;p&gt;Testing, Testing, 1,2,3&lt;/p&gt;
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-r&quot; data-lang=&quot;r&quot;&gt;&lt;span class=&quot;n&quot;&gt;plot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
@@ -44,8 +44,8 @@
     
       <item>
         <title>R Markdown For Policy Documents</title>
-        <link>http://fozy81.github.io.//2016/02/24/r-markdown-for-policy-documents.html</link>
-        <guid isPermaLink="true">http://fozy81.github.io.//2016/02/24/r-markdown-for-policy-documents.html</guid>
+        <link>http://fozy81.github.io//2016/02/24/r-markdown-for-policy-documents.html</link>
+        <guid isPermaLink="true">http://fozy81.github.io//2016/02/24/r-markdown-for-policy-documents.html</guid>
         <description>&lt;!DOCTYPE html&gt;
 
 &lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
@@ -151,8 +151,8 @@ $(document).ready(function () {
     
       <item>
         <title>Serve Jekyll Websites with servr and knitr</title>
-        <link>http://fozy81.github.io.//jekyll/rstats/2014/09/28/jekyll-with-knitr.html</link>
-        <guid isPermaLink="true">http://fozy81.github.io.//jekyll/rstats/2014/09/28/jekyll-with-knitr.html</guid>
+        <link>http://fozy81.github.io//jekyll/rstats/2014/09/28/jekyll-with-knitr.html</link>
+        <guid isPermaLink="true">http://fozy81.github.io//jekyll/rstats/2014/09/28/jekyll-with-knitr.html</guid>
         <description>&lt;p&gt;The R package &lt;a href=&quot;https://github.com/yihui/servr&quot;&gt;&lt;strong&gt;servr&lt;/strong&gt;&lt;/a&gt; can be used to set up an HTTP server to serve files under a directory. Since &lt;strong&gt;servr&lt;/strong&gt; v0.2, it has added a function &lt;code&gt;servr::jekyll()&lt;/code&gt; specifically designed for websites based on Jekyll and R Markdown. The main features of this function are:&lt;/p&gt;
 
 &lt;ol&gt;

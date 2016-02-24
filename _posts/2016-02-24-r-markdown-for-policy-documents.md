@@ -8,7 +8,6 @@ feature-img: "images/policy_doc.png"
 ---
 
 
-
 Reproducible documents in R markdown have focused on science and technical data. Along with distributed version control, the R package system, unit testing and continuous integration resources there is a suite of tools which were original developed for collaborating and testing code and digital resouces which now are being used more widely for all types of documentation and processes in science and beyond.
 
 Got me wondering how far this could be taken. Even though there's plenty of technical aspects in terms of how best to use and collaborate using these types of documents, particularly between the non-technical end-user and the coder. There's some really interesting work outlined in this [paper](https://www.stat.auckland.ac.nz/~paul/Reports/invert/invert.html) on ways this can be done.
@@ -21,7 +20,7 @@ So I've drafted, the first piece of Rmarkdown legislation. It's early days, but 
 
 If the area name you enter matches an admin area in OpenStreetMap (admin_level = 6) i.e. roughly equal to county/council jurisdiction, it will download the road network from openstreetmap, work out how much distance that covers, sets up surveying points to create a baseline survey to record the amount of litter present and displays a simple map. Once the data on the amount of litter is collect, is could be the basis of a shiny app...the level of fines for litter could be adjusted and the outcomes of different levels of fine compared. The fines could be automatically adjusted for inflation. 
 
-![doc_map]({{ site.url }}images/policy_doc.png)
+![doc_map]({{ site.url }}images/policy_map.png)
 
 
 
