@@ -16,7 +16,7 @@ Maybe an Rmarkdown policy doc for reducing litter?
 
 ![policy doc]({{ site.url }}/images/policy_doc.png)
  
-I think R markdown documents, particularly for policy could be a building block for the services and reports that a particular policy outlines. Making the text of a legal document the foundation of a data dictionary and web service which delivers the outcomes, measures the performance, creates the reports and ultimately provides feedback as to whether the policy is successful or not. This document would also be easy to transferable/adjustable for different jurisdiction.
+I think R markdown documents, particularly for policy could be a building block for the services and reports that a particular policy outlines. Making the text of a legal document the foundation of a data dictionary and web service which delivers the outcomes, measures the performance, creates the reports and ultimately provides feedback as to whether the policy is successful or not. This document would also be easy to transfer/adjust for different jurisdiction.
 
 So I've drafted, the first piece of Rmarkdown legislation. It's early days, but I've uploaded an R package to github for cloning called [Policy](https://github.com/fozy81/policy). It's apolicy to reduce street litter. You can change the area parameter value when rendering (see details of how this can be done in rstudio [here](http://rmarkdown.rstudio.com/developer_parameterized_reports.html) ). 
  
