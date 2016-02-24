@@ -20,7 +20,7 @@ So I've drafted, the first piece of Rmarkdown legislation. It's early days, but 
 
 If the area name you enter matches an admin area in OpenStreetMap (admin_level = 6) i.e. roughly equal to county/council jurisdiction, it will download the road network from openstreetmap, work out how much distance that covers, sets up surveying points to create a baseline survey to record the amount of litter present and displays a simple map. Once the data on the amount of litter is collect, is could be the basis of a shiny app...the level of fines for litter could be adjusted and the outcomes of different levels of fine compared. The fines could be automatically adjusted for inflation. 
 
-![doc_map](http://fozy81.github.io/images/policy_doc.png)
+![doc_map](fozy81.github.io/images/policy_doc.png)
 
 
 
