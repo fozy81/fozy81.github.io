@@ -1,0 +1,18 @@
+---
+layout: post
+title:  Reproducible policy documents in R
+date: `r Sys.time()`
+published: true
+tags: [example1, example2]
+---
+
+
+Reproducible documents in R markdown have focused on science and data. Along with distributed version control, the R package system, unit testing and continuous integration tools there is a suite of tools which were original developed for collaborating and testing code and digital resouces which now are being used more widely for all types of documentation and processes in data, science and beyond.
+
+The example of Icelanders using version controlled to create a new user-generated constitution for the country is a great demstration of the wider application of these tools. There was been some work to look at legal and policy documentations being written using version control which some see as a way to increase transparency in the law making process.
+
+Law and legal documents have a complicated structure which can make a even your most convoluted git repository look like a well maintained garden in comparison. Both the way laws supercede each other, not only afffecting the preceding law of the same name but partially or completing replacing any other existing laws which it may overwrite makes it a complex process of re-writing and re-interpretting. The structure of legal documents has been formalised in a number of ways within the UK there are xml formats as well as a more broad international xml standard. Some interesting tools for editing and updating laws are being development.
+
+So there looks like there’s interesting applications both for xml standards and version control in the policy/law/legal field. Markdown itself could be used as a plain text document format. But where could R and R markdown help in this area?
+
+I think R markdown documents, particularly for policy could be a building block for the services and reports that a particular legal policy outlines. Making the text of a legal document the foundation of and data dictionary of
